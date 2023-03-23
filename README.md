@@ -29,9 +29,12 @@ Synology is a company that specializes in network-attached storage (NAS) devices
 
 ### Firewall
 * [Synology NAS Comes With Stateless Firewall, Here's How To Setup](https://www.aplens.co/blog/synology-nas-comes-with-stateless-firewall-here-s-how-to-setup) Guideline of Synology Firewall Set-up
-### 2-Factor Authentication]
+### 2-Factor Authentication
 * [Set Up 2FA on Synology NAS to Reduce Attack Surfac](https://www.aplens.co/blog/synology-nas-2fa-setup-to-reduce-attack-surface) Guideline of Synology 2FA Set-up
-
+### Strong Password
+* [Create a Strong Password](https://mariushosting.com/synology-how-to-choose-a-strong-password/)
+###
+ 
 ## Instant Response under attacks
 * [Backup Off-site](https://www.ibs.com.cy/en/blog/ransomware-prevention-and-protection-by-synology) - Keep copies of your files and restore them if you are affected by ransomware
 * [Restore Synology NAS under attack](https://kb.synology.com/tr-tr/DSM/tutorial/What_to_do_when_NAS_attacked_by_ransomware) - Recover your data and applications by restoring your backups from a NAS or an off-site location even if your devices have been compromised
