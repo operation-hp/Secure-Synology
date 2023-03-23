@@ -5,10 +5,11 @@ Best practises to protect Synology NAS  #APLens #Synology
 * [Basic knowledge](https://github.com/operation-hp/Secure-Synology/blob/main/README.md#basic-knowledge)
 * [News & Blog post](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#news--blog-post)
 * [Set-up on secure protections on Synology](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#set-up-on-secure-protections-on-synology)
-    1. Firewall
-    2. 2-Factor Authentication
+    1. [Firewall](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#firewall)
+    2. [2-Factor Authentication](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#2-factor-authentication)
     
  * [Instant Response under attacks](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#instant-response-under-attacks)
+ * Useful Website
 
 ## Basic knowledge
 
@@ -27,9 +28,9 @@ Synology is a company that specializes in network-attached storage (NAS) devices
 ## Set-up on secure protections on Synology
 
 ### Firewall
-[Synology NAS Comes With Stateless Firewall, Here's How To Setup](https://www.aplens.co/blog/synology-nas-comes-with-stateless-firewall-here-s-how-to-setup) Guideline of Synology Firewall Set-up
+* [Synology NAS Comes With Stateless Firewall, Here's How To Setup](https://www.aplens.co/blog/synology-nas-comes-with-stateless-firewall-here-s-how-to-setup) Guideline of Synology Firewall Set-up
 ### 2-Factor Authentication]
-[Set Up 2FA on Synology NAS to Reduce Attack Surfac](https://www.aplens.co/blog/synology-nas-2fa-setup-to-reduce-attack-surface) Guideline of Synology 2FA Set-up
+* [Set Up 2FA on Synology NAS to Reduce Attack Surfac](https://www.aplens.co/blog/synology-nas-2fa-setup-to-reduce-attack-surface) Guideline of Synology 2FA Set-up
 
 ## Instant Response under attacks
 * [Backup Off-site](https://www.ibs.com.cy/en/blog/ransomware-prevention-and-protection-by-synology) - Keep copies of your files and restore them if you are affected by ransomware
