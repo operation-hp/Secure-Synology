@@ -32,9 +32,12 @@ Synology is a company that specializes in network-attached storage (NAS) devices
 [Set Up 2FA on Synology NAS to Reduce Attack Surfac](https://www.aplens.co/blog/synology-nas-2fa-setup-to-reduce-attack-surface) Guideline of Synology 2FA Set-up
 
 ## Instant Response under attacks
-
+* [Backup Off-site](https://www.ibs.com.cy/en/blog/ransomware-prevention-and-protection-by-synology) - Keep copies of your files and restore them if you are affected by ransomware
+* [Restore Synology NAS under attack](https://kb.synology.com/tr-tr/DSM/tutorial/What_to_do_when_NAS_attacked_by_ransomware) - Recover your data and applications by restoring your backups from a NAS or an off-site location even if your devices have been compromised
 
 ## Useful Website
 * [AP-Lens](https://www.aplens.co) - Whitelist DNS providing network isolation 
 * [Bitdefender Blog](https://www.bitdefender.com/blog/)
 * [Malwarebytes Labs](https://www.malwarebytes.com/blog) - The Security Blog From Malwarebytes
+* [Synology](https://www.synology.com/tr-tr) 
+* [IBS Integrated Business Solutions](https://www.ibs.com.cy/en/) - a company based in Cyprus that provides enterprise software solutions and IT services for businesses
