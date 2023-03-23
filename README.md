@@ -9,7 +9,7 @@ Best practises to protect Synology NAS  #APLens #Synology
     2. [2-Factor Authentication](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#2-factor-authentication)
     
  * [Instant Response under attacks](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#instant-response-under-attacks)
- * Useful Website
+ * [Useful Website](https://github.com/operation-hp/Secure-Synology/edit/main/README.md#useful-website)
 
 ## Basic knowledge
 
@@ -37,8 +37,8 @@ Synology is a company that specializes in network-attached storage (NAS) devices
 * [Restore Synology NAS under attack](https://kb.synology.com/tr-tr/DSM/tutorial/What_to_do_when_NAS_attacked_by_ransomware) - Recover your data and applications by restoring your backups from a NAS or an off-site location even if your devices have been compromised
 
 ## Useful Website
-* [AP-Lens](https://www.aplens.co) - Whitelist DNS providing network isolation 
-* [Bitdefender Blog](https://www.bitdefender.com/blog/)
+* [AP-Lens](https://www.aplens.co) -A company provides Whitelist DNS providing network isolation security products
+* [Bitdefender Blog](https://www.bitdefender.com/blog/) - A cybersecurity company provides a range of security products and services to protect individuals and businesses from online threats.
 * [Malwarebytes Labs](https://www.malwarebytes.com/blog) - The Security Blog From Malwarebytes
-* [Synology](https://www.synology.com/tr-tr) 
-* [IBS Integrated Business Solutions](https://www.ibs.com.cy/en/) - a company based in Cyprus that provides enterprise software solutions and IT services for businesses
+* [Synology](https://www.synology.com/tr-tr) - A company specializes in network-attached storage (NAS) devices
+* [IBS Integrated Business Solutions](https://www.ibs.com.cy/en/) - A company based in Cyprus provides enterprise software solutions and IT services for businesses
